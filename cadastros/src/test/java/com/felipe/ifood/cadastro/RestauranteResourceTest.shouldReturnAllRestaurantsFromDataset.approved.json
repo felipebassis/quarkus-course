@@ -1,0 +1,12 @@
+[
+  {
+    "id": "be4dcf9f-ff59-4c55-96f5-353ea732edc6",
+    "proprietario": "Id do Keycloak",
+    "nome": "New Restaurant"
+  },
+  {
+    "id": "be4dcf9f-ff59-4c55-96f5-353ea732edc7",
+    "proprietario": "Id do Keycloak 2",
+    "nome": "New Restaurant 2"
+  }
+]

@@ -1,0 +1,7 @@
+restaurante:
+  - ID: "be4dcf9f-ff59-4c55-96f5-353ea732edc6"
+    NOME: "New Restaurant"
+    PROPRIETARIO: "Id do Keycloak"
+  - ID: "be4dcf9f-ff59-4c55-96f5-353ea732edc7"
+    NOME: "New Restaurant 2"
+    PROPRIETARIO: "Id do Keycloak 2"
